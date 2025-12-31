@@ -1,0 +1,34 @@
+# MATLAB相关
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.mat
+
+# 临时文件
+untitled*.m
+~$*
+
+# 输出和结果
+results/
+output/
+*.log
+*.fig
+
+# IDE相关
+.vscode/
+.idea/
+*.swp
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编译文件
+*.slxc
+slprj/
+
+# 代码生成
+codegen/
